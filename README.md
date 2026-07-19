@@ -1,3 +1,5 @@
 # stats
 
-![Profile Views] https://komarev.com/ghpvc/?username=dimasrizqii&color=brightgreen
+![GitHub Stats](https://vercel.app)
+
+![Top Langs](https://vercel.app)
